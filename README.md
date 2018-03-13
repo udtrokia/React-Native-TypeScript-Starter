@@ -10,6 +10,8 @@ title: Startup React Native App with Typescript
 
 _
 
+__Tested it again, and it occured some Errs. refer to webpack config, maybe a simple tsc render can not dynamic compiling our javascript I will figure out a way to fixed it__
+
 ## Run ts and tsx with ts-jest
  
 # babel-jest
